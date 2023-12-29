@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 2000px;
+}
+
+h1, 
+ul,
+p {
+    margin: 0px;
+}
+
+ul {
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    align-self: inherit;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
