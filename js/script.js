@@ -61,3 +61,8 @@ function eventosPerguntas(pergunta) {
   }
   
   galeria.forEach(eventosGaleria);
+
+  //Ativacao animacao
+if(window.SimpleAnime){
+  new SimpleAnime()
+}
